@@ -1,6 +1,6 @@
 
 
-root {
+:root {
  --primary-color: #4CAF50; 
 --secondary-color: #8BC34A; 
 --text-color: #2E7D32; 
@@ -11,10 +11,21 @@ root {
 
 * { margin: 0; padding: 0; 
 box-sizing: border-box; 
-font-family: var(--font-body); } 
- body {
+ } 
+
+body {
  background-color: var(--background-color);
  color: var(--text-color);
- line-height: 1.6; } 
-h3 { margin-top: 25px; }
- p { margin-top: 20px; }
+ line-height: 1.6;
+} 
+
+h1,h2,h3,h4,h5,h6{
+ font-family: var(--font-titulo),serif;
+}
+
+h3 {
+ margin-top: 25px; 
+}
+ p { 
+  margin-top: 20px; 
+ }
