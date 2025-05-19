@@ -1,9 +1,21 @@
 
 
+root {
+ --primary-color: #3d9977; 
+--secondary-color: #3CA6A6; 
+--text-color: black; 
+--background-color: #F2E3D5; 
+--button-hover: #012E40;
+ --font-body: "Chocolate Classical Sans", serif;
+ --font-titulo: "Rakkas", serif; 
+} 
 
-:root{
-    -- primary-color:
-    --secondary-color:
-    --text-color:
-    -- 
-}
+* { margin: 0; padding: 0; 
+box-sizing: border-box; 
+font-family: var(--font-body); } 
+ body {
+ background-color: var(--background-color);
+ color: var(--text-color);
+ line-height: 1.6; } 
+h3 { margin-top: 25px; }
+ p { margin-top: 20px; }
