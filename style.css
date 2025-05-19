@@ -1,31 +1,8 @@
-
-
-:root {
- --primary-color: #4CAF50; 
---secondary-color: #8BC34A; 
---text-color: #2E7D32; 
---background-color: #F1F8E9; 
- --font-body: "Open Sans", serif;
- --font-titulo: "Merriweather", serif; 
-} 
-
-* { margin: 0; padding: 0; 
-box-sizing: border-box; 
- } 
-
-body {
- background-color: var(--background-color);
- color: var(--text-color);
+body{
+ font- family: "Montserrat", sans-serif;
+ margin: 0;
+ background-color: #f0f8f4;
+ color: #333;
  line-height: 1.6;
-} 
-
-h1,h2,h3,h4,h5,h6{
- font-family: var(--font-titulo),serif;
 }
-
-h3 {
- margin-top: 25px; 
-}
- p { 
-  margin-top: 20px; 
- }
+ 
