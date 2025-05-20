@@ -35,8 +35,10 @@ li{
 }
 
 footer{
- border: 15px solid  black;
  font-family: "Arial"
   background-color: #2f612f;
-
+padding: 10px 20px;
+  text-align: center;
+  border-radius: 0;
+  margin-top: 20px;
 }
