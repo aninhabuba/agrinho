@@ -15,8 +15,8 @@ header{
 
 h1{
  font-family: "Georgia", sans- serif;
- font-size: 30 px
- color: black:
+ font-size: 30px;
+ color: black;
 }
 
 p{
@@ -27,7 +27,7 @@ p{
 div{
   border: 1px solid black;
  border-radius: 2px;
-  border-witdh: 5px;
+  
 }
 
 li{
@@ -35,7 +35,7 @@ li{
 }
 
 footer{
- font-family: "Arial"
+ font-family: "Arial";
   background-color: #2f612f;
 padding: 10px 20px;
   text-align: center;
