@@ -24,7 +24,7 @@ p{
 }
 
 div{
-  border: 8px solid #000000;
+  border: 1px solid black;
  border-radius: 2px;
   border-witdh: 5px;
 }
@@ -34,7 +34,7 @@ li{
 }
 
 footer{
- border: 15px   black;
+ border: 15px solid  black;
  border-radius: 50%;
  font-family: "Arial"
   background-color: #2f612f;
