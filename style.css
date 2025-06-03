@@ -14,6 +14,12 @@ header{
  margin-bottom: 5px;
 }
 
+img{
+  display: block;
+  width: 80px;
+  height: auto;
+}
+
 h1{
  font-family: "Georgia", sans- serif;
  font-size: 30px;
